@@ -3,10 +3,15 @@ import "./styles.css";
 
 const emojiDictionary = {
   "😄": "Smiling",
-  "😧": "Disbelife",
+  "😧": "Surprised",
   "😡": "Angry",
   "😴": "Sleepy",
-  "🤒": "Sick"
+  "🤒": "Sick",
+  "❤️": "Red heart",
+  "😋": "Delicious Food",
+  "😘": "Face Blowing a Kiss",
+  "☹️": "sad",
+  "😭": "Crying"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
